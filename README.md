@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03090f,50:0c1c30,100:c8a84b&height=190&section=header&text=Farrukh%20Hussain&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Electrical%20Engineer%20%C2%B7%20Industrial%20Automation%20%C2%B7%20AI%20%26%20Data%20Science&descSize=17&descAlignY=58" width="100%"/>
+<img src="banner.svg" width="100%" alt="Farrukh Hussain - Electrical Engineer, Industrial Automation, AI &amp; Data Science"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=C8A84B&center=true&vCenter=true&width=640&lines=10%2B+years+in+power+systems%2C+PLC%2FSCADA+%26+MEP+design;MEng+Electrical+%26+Computer+Engineering+%E2%80%94+Windsor%2C+Canada;Applying+Machine+Learning+to+real+engineering+problems;Open+to+opportunities+%E2%80%94+Canada+%C2%B7+UK+%C2%B7+Middle+East+%C2%B7+Remote" alt="Typing SVG" /></a>
 
@@ -86,8 +86,8 @@ I'm an **Electrical Engineer with 10+ years of hands-on experience** in Pakistan
 ### 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=farrukhhussai&show_icons=true&hide_border=true&bg_color=03090f&title_color=c8a84b&icon_color=0ea5e9&text_color=dde4f0&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhhussai&layout=compact&hide_border=true&bg_color=03090f&title_color=c8a84b&text_color=dde4f0"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farrukhhussai&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farrukhhussai&theme=github_dark"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=farrukhhussai&hide_border=true&background=03090f&ring=c8a84b&fire=0ea5e9&currStreakLabel=c8a84b&sideLabels=dde4f0&currStreakNum=ffffff&sideNums=ffffff&dates=506070"/>
 </div>
